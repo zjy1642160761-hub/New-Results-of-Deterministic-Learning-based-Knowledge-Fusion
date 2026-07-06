@@ -1,0 +1,6 @@
+method,source_script,estimation_rmse,validation_rmse,estimation_delta_rmse,validation_delta_rmse,runtime_seconds
+DLM-Mean,scripts/legacy/systemidentification_4D_fusion_mainpaper8_mean.m,0.556131843156761,0.485134238149469,0.094955254283246,0.102120147257176,3.3384766
+DLM-Off,scripts/legacy/systemidentification_4D_fusion_mainpaper.m,0.473779751554231,0.401608772296526,0.094955254283246,0.102120147257176,0.4612897
+DLM-LS,scripts/legacy/systemidentification_4D_fusion_mainpaper7_LS.m,0.365131506181605,0.376762565801235,0.094955254283246,0.102120147257176,3.5090137
+DLM-WLSR1,scripts/legacy/systemidentification_4D_fusion_mainpaper3.m,0.354938282754732,0.372737058293489,0.094955254283246,0.102120147257176,3.5967686
+DLM-WLSR2,scripts/legacy/systemidentification_4D_fusion_mainpaper6.m,0.377932306587736,0.316778863253797,0.094955254283246,0.102120147257176,3.8504238
