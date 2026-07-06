@@ -3,7 +3,7 @@
 This repository provides MATLAB code and benchmark data for reproducing the main experiments in:
 
 > New Results of Deterministic Learning-based Knowledge Fusion  
-> Manuscript ID: NEUNET-D-25-06895
+
 
 The code was reorganized from the original `papercode/` folder into a reviewer-friendly reproduction package. The original long scripts are kept in `scripts/legacy/`, while the main entry points are placed in `scripts/`.
 
