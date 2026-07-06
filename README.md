@@ -55,7 +55,7 @@ src/
 tests/                   Lightweight smoke tests
 ```
 
-## Reproducing Manuscript Results
+## Reproducing Main Manuscript Results
 
 | Manuscript item | Main script | Output | Notes |
 |---|---|---|---|
@@ -63,6 +63,7 @@ tests/                   Lightweight smoke tests
 | Cascaded Tanks source figures | `scripts/export_cascaded_tanks_source_figures.m` | `figures/exported/cascaded_tanks_prediction_comparison.pdf` | Rebuilds a combined plot from the included `.fig` files |
 | Rossler main figures | `scripts/run_rossler_main_figures.m` | `figures/exported/rossler_main_*.png/.pdf/.fig` | Uses `scripts/legacy/NNpaperfigure.m` |
 | Rossler sensitivity analysis | `scripts/run_sensitivity_analysis.m` | `figures/exported/rossler_sensitivity_*.png/.pdf/.fig` | Long-running hyperparameter sweep |
+
 
 The Cascaded Tanks entry point uses `src/experiments/runCascadedTanksExperiment.m`, which refactors the five original system-identification scripts into one method-based runner.
 
