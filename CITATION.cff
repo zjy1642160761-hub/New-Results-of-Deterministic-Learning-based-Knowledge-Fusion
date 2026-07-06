@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript."
+title: "MATLAB Code for Deterministic Learning-based Knowledge Fusion"
+type: software
+authors:
+  - family-names: "TBD"
+    given-names: "TBD"
+repository-code: "https://github.com/REPLACE-WITH-REPOSITORY-URL"
+date-released: "2026-07-06"
+license: MIT
+abstract: "MATLAB reproduction code for the main experiments in manuscript NEUNET-D-25-06895."
