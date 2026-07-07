@@ -14,5 +14,4 @@ result = runCascadedTanksExperiment('DLM-LS', options);
 assert(isfinite(result.validation.rmse), 'Validation RMSE must be finite.');
 assert(numel(result.weights) > 0, 'Fused weight vector must not be empty.');
 
-
 fprintf('Smoke test passed. This reduced run checks execution only and is not a manuscript-level performance result.\n')
