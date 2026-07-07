@@ -1,4 +1,4 @@
-function WFu = Wfusion7_mod(SSinput, Winput, sigma)
+function WFu = Wfusion8_mod(SSinput, Winput, sigma)
 
 % =========================================================
 % Generalized Distributed Knowledge Fusion
