@@ -3,9 +3,9 @@ message: "If you use this code, please cite the associated manuscript."
 title: "MATLAB Code for Deterministic Learning-based Knowledge Fusion"
 type: software
 authors:
-  - family-names: "TBD"
-    given-names: "TBD"
-repository-code: "https://github.com/REPLACE-WITH-REPOSITORY-URL"
+  - family-names: "Zhang"
+    given-names: "Jinyuan"
+repository-code: "https://github.com/zjy1642160761-hub/New-Results-of-Deterministic-Learning-based-Knowledge-Fusion.git"
 date-released: "2026-07-06"
 license: MIT
 abstract: "MATLAB reproduction code for the main experiments in manuscript NEUNET-D-25-06895."
